@@ -61,7 +61,7 @@ class MoviesViewController: UIViewController, UITableViewDataSource, UITableView
         
         cell.titleLabel.text = title
         cell.overviewLabel.text = overview
-    //vince sucks ass
+    
    
     print("row \(indexPath.row)")
     return cell
